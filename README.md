@@ -22,11 +22,11 @@ This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonComm
 This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
 
 ## DATA
-- 3D CAD models from [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/) are used for this implementation.
-- The training pairs (X, Y) used for this paper is as follows:
-		- This paper uses the computer-generated sketches from Dataset_B of the [CADSketchNet dataset](https://github.com/bharadwaj-manda/CADSketchNet) as 'X'.
-		- The ground truth 'Y' is obtained manually by tracing the object boundaries of every CAD model. This ground truth sketch data is one on of the contributions of the paper.
-		- The ground-truth images can be downloaded [here](https://drive.google.com/file/d/1RrdF8ujwyytMeXf-peCPQaAq25yp9kUO/view?usp=sharing).
+* 3D CAD models from [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/) are used for this implementation.
+* The training pairs (X, Y) used for this paper is as follows:
+    * This paper uses the computer-generated sketches from Dataset_B of the [CADSketchNet dataset](https://github.com/bharadwaj-manda/CADSketchNet) as 'X'.
+    * The ground truth 'Y' is obtained manually by tracing the object boundaries of every CAD model. This ground truth sketch data is one on of the contributions of the paper.
+    * The ground-truth images can be downloaded [here](https://drive.google.com/file/d/1RrdF8ujwyytMeXf-peCPQaAq25yp9kUO/view?usp=sharing).
 
 For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 

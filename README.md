@@ -15,7 +15,7 @@
 
 This is the repository for the 'SketchCleanNet' Dataset, associated with the paper ["SketchCleanNet - A deep learning approach to the enhancement and correction of query sketches for a 3D CAD model retrieval system"]().
 
-The paper is accepted for publication in the Special Section on [Symposium on 3D Object Retrieval 2022 (3DOR'22)](https://www.micc.unifi.it/3dor2022/) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The arxiv version of the paper is available [here]() *Coming soon*. The final published version of the paper is [here]() *Coming soon*.
+The paper is accepted for publication in the Special Section on [Symposium on 3D Object Retrieval 2022 (3DOR'22)](https://www.micc.unifi.it/3dor2022/) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The arxiv version of the paper is available [here](https://arxiv.org/pdf/2207.00732.pdf). The final published version of the paper is [here]() *Coming soon*.
 
 ## LICENSE
 This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International

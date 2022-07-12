@@ -34,6 +34,7 @@ For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com
 
 - Use the bibtex below:
 
+```bibtex
 @article{MANDA2022,
 title = {SketchCleanNet - A deep learning approach to the enhancement and correction of query sketches for a 3D CAD model retrieval system},
 journal = {Computers & Graphics},
@@ -44,10 +45,11 @@ url = {https://www.sciencedirect.com/science/article/pii/S0097849322001212},
 author = {Bharadwaj Manda and Prasad Pralhad Kendre and Subhrajit Dey and Ramanathan Muthuganapathy},
 keywords = {Search and retrieval, Engineering models, Sketch enhancement, Mechanical components, CAD models, Sketch-based retrieval},
 }
+```
 
 - Or use the plain text below
 
-Manda, Bharadwaj, et al. "SketchCleanNet-A deep learning approach to the enhancement and correction of query sketches for a 3D CAD model retrieval system." Computers & Graphics (2022).
+Manda, Bharadwaj, Prasad Pralhad Kendre, Subhrajit Dey, and Ramanathan Muthuganapathy. "SketchCleanNet-A deep learning approach to the enhancement and correction of query sketches for a 3D CAD model retrieval system." Computers & Graphics (2022).
 
 <ins>Files in this repository:</ins>
 
